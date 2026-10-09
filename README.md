@@ -224,7 +224,7 @@ The asynchronous reset test additionally checks whether the outputs clear withou
 ## Simulation Results
 
 <p align="center">
-  <img src="images/simulation-waveform.png" alt="ALU Simulation Waveform" width="100%">
+  <img src="Capture3.PNG" alt="ALU Simulation Waveform" width="100%">
 </p>
 
 The waveform image should be generated from an actual simulator run and should show representative input transactions, `in_valid`, `out_valid`, the result, status flags, and reset behavior.
@@ -336,8 +336,8 @@ Digital IC Design & RTL Verification
 
 Interested in RTL development, SystemVerilog, functional verification, and hardware design.
 
-- GitHub: [Add your GitHub profile URL]
-- LinkedIn: [Add your LinkedIn profile URL]
+- GitHub: https://github.com/engSalah-dot
+- LinkedIn: https://www.linkedin.com/in/salah-ebied-3138241b1
 
 ## License
 
