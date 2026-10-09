@@ -40,7 +40,7 @@ The repository documents both the design and the verification methodology, provi
 ## Architecture
 
 <p align="center">
-  <img src="images/alu-block-diagram.png" alt="ALU Architecture Block Diagram" width="90%">
+  <img src="8-Bit ALU SystemVerilog Block Diagram.png" alt="ALU Architecture Block Diagram" width="90%">
 </p>
 
 The design is organized into two main functional sections.
