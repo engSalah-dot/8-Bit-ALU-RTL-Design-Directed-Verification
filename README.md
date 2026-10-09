@@ -1,7 +1,7 @@
 # RTL-Forge | 8-Bit ALU Design & Verification
 
 <p align="center">
-  <img src="RTL-Forge_ 8-Bit ALU Blueprint.png" alt="RTL-Forge — SystemVerilog RTL Design and Verification" width="100%">
+  <img src="docs/RTL-Forge_ 8-Bit ALU Blueprint.png" alt="RTL-Forge — SystemVerilog RTL Design and Verification" width="100%">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ The repository documents both the design and the verification methodology, provi
 ## Architecture
 
 <p align="center">
-  <img src="8-Bit ALU SystemVerilog Block Diagram.png" alt="ALU Architecture Block Diagram" width="90%">
+  <img src="docs/8-Bit ALU SystemVerilog Block Diagram.png" alt="ALU Architecture Block Diagram" width="90%">
 </p>
 
 The design is organized into two main functional sections.
@@ -74,7 +74,7 @@ The registered output structure is named `out_q`.
 ### 3. Datapath Flow
 
 <p align="center">
-  <img src="SystemVerilog Directed Testbench Verification Flow.png" alt="ALU Datapath and Output Registration Flow" width="90%">
+  <img src="docs/SystemVerilog Directed Testbench Verification Flow.png" alt="ALU Datapath and Output Registration Flow" width="90%">
 </p>
 
 The conceptual data flow is:
@@ -224,7 +224,7 @@ The asynchronous reset test additionally checks whether the outputs clear withou
 ## Simulation Results
 
 <p align="center">
-  <img src="Capture3.PNG" alt="ALU Simulation Waveform" width="100%">
+  <img src="docs/Capture3.PNG" alt="ALU Simulation Waveform" width="100%">
 </p>
 
 The waveform image should be generated from an actual simulator run and should show representative input transactions, `in_valid`, `out_valid`, the result, status flags, and reset behavior.
