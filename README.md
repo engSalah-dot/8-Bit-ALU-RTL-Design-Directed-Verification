@@ -169,9 +169,6 @@ Reserved opcodes `0xE` and `0xF` set `err` to one and clear the other output fie
 
 ## Verification Strategy
 
-<p align="center">
-  <img src="images/verification-flow.png" alt="Directed Verification Workflow" width="90%">
-</p>
 
 The testbench, `tb_directed.sv`, instantiates the ALU and applies directed test cases.
 
