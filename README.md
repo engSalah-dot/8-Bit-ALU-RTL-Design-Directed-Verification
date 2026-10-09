@@ -1,7 +1,7 @@
 # RTL-Forge | 8-Bit ALU Design & Verification
 
 <p align="center">
-  <img src="images/hero-banner.png" alt="RTL-Forge — SystemVerilog RTL Design and Verification" width="100%">
+  <img src="RTL-Forge_ 8-Bit ALU Blueprint.png" alt="RTL-Forge — SystemVerilog RTL Design and Verification" width="100%">
 </p>
 
 <p align="center">
