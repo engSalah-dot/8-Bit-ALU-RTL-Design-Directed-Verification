@@ -74,7 +74,7 @@ The registered output structure is named `out_q`.
 ### 3. Datapath Flow
 
 <p align="center">
-  <img src="images/datapath-flow.png" alt="ALU Datapath and Output Registration Flow" width="90%">
+  <img src="SystemVerilog Directed Testbench Verification Flow.png" alt="ALU Datapath and Output Registration Flow" width="90%">
 </p>
 
 The conceptual data flow is:
